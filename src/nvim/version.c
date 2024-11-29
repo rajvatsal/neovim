@@ -2743,8 +2743,8 @@ void intro_message(bool colon)
     "",
     N_("type  :help news<Enter> to see changes in v%s.%s"),
     "",
-    N_("Help poor children in Uganda!"),
-    N_("type  :help iccf<Enter>       for information "),
+    N_("What do you call a fish wearing a bowtie?"),
+    N_("Sofishticated"),
   };
 
   // blanklines = screen height - # message lines
